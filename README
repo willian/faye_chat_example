@@ -1,0 +1,8 @@
+== Using
+
+Run the commands below: (Use different windows)
+$ node faye_server.js
+$ rails server
+
+== Related post
+http://willianfernandes.com.br/faye-como-eu-criei-um-simples-chat-usando-rails

@@ -1,0 +1,4 @@
+<% broadcast "/chat" do %>
+	$("#messages ol").append($("<li><%= @message.content %></li>"));
+<% end %>
+$("#message_content").val('');
